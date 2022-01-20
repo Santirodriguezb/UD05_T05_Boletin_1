@@ -8,7 +8,6 @@
 </head>
 <body>
     <?php
-
         echo "Santi Rodriguez Baldonedo"
     ?>
 </body>

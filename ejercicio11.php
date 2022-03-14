@@ -12,6 +12,7 @@
         echo "<pre>";
         echo "*<br>";
         echo "**<br>";
+        echo "***<br>";
         for($i=1; $i<=6; $i++){
             $blancos=$blancos."&nbsp;";
             echo "*".$blancos."*<br/>";
